@@ -27,4 +27,7 @@ switch($controller){
         require_once('Controller/page/index.php');
     }
 }
+
+// trâm xinh gái yêu hương 
 ?>
+
