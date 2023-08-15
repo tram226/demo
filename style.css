@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 400px;
+    margin:  0 auto;
+}
+.dkthanhvien{
+    width: 400px;
+    border: 1px solid #ddd;
+    margin-top: 60px;
+}
+
+.dkthanhvien h3{
+    background: rgba(87, 87, 225, 0.671);
+    padding: 5px;
+    color: #fff;
+    text-align: center;
+}
+.dkthanhvien form table tr td{
+    padding: 5px;
+}
+.dkthanhvien form table tr td input{
+    padding: 3px 5px;
+}
+.list{
+
+    padding: 2px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    color:#000;
+}
+.danhsach,
+.search{
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.danhsach table{
+    width: 800px;
+    border: 1px solid rgba(79, 76, 70, 0.789);
+}
+.danhsach h3{
+   background:  rgba(87, 87, 225, 0.671);
+   text-align: center;
+   padding: 5px;
+}
